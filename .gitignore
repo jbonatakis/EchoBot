@@ -1,0 +1,34 @@
+##############################
+## MacOS
+##############################
+.DS_Store
+
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+##############################
+## Application
+##############################
+echo.log
